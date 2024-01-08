@@ -31,9 +31,3 @@ document
       recognition.start();
     }
   });
-
-
-
-
-
-   
